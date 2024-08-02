@@ -1,2 +1,2 @@
 # Hachathon_CTS
-Owners -> Debdyuti,Nikesh,Subhankar,Mitul
+Owners -> Debdyuti,Nilesh,Subhankar,Mitul
